@@ -353,7 +353,7 @@ WHERE revenue > 0
 ORDER BY vote_average DESC
 ;
 
--- Question 6.
+-- 6.
 SELECT vote_average, COUNT(id) AS nbrFilms
 FROM movies
 GROUP BY vote_average
