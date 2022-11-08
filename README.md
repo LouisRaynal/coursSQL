@@ -6,3 +6,9 @@
 - Mercredi 28/09 de 14h à 18h
 - Mercredi 19/10 de 14h à 18h
 - Mercredi 26/10 de 14h à 18h (**TP noté**)
+
+### Dates des cours-TP pour L3 Maths (Data) :
+- Mercredi 09/11 de 15h à 17h30
+- Mercredi 16/11 de 15h à 17h30
+- Mercredi 23/11 de ?? à ??
+- Mercredi 07/12 de ?? à ?? (**TP noté**)
