@@ -1,7 +1,7 @@
 # Introduction aux bases de données avec SQL
 
 ### Dates des cours-TP communs aux deux filières :
-- Jeudi 7/09 de 8h à 12h (Avancement : TP1, TP2 pages 1 à 4)
+- Jeudi 7/09 de 8h à 12h *(Avancement : TP1, TP2 pages 1 à 4)*
 - Jeudi 14/09 de 8h à 12h
 - Jeudi 28/09 de 8h à 12h
 - Jeudi 19/10 de 8h à 12h
