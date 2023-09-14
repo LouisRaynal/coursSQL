@@ -2,7 +2,7 @@
 
 ### Dates des cours-TP communs aux deux filières :
 - Jeudi 7/09 de 8h à 12h *(Avancement : TP1, TP2 pages 1 à 4)*
-- Jeudi 14/09 de 8h à 12h
+- Jeudi 14/09 de 8h à 12h *(Avancement : TP2 pages 4 à 10)*
 - Jeudi 28/09 de 8h à 12h
 - Jeudi 19/10 de 8h à 12h
 - Jeudi 26/10 de 9h à 12h (**TP noté**)
