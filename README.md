@@ -10,7 +10,7 @@
   *Avancement : Correction exercices du TP2. TP 3 pages 1 à 13 \
   **Pour la prochaine fois, finir les exercices en page 13 du TP3***
 - Jeudi 19/10 de 8h à 12h
-  *Avancement : Fin du TP3 \
+  *Avancement : Fin du TP3* \
 - Jeudi 26/10 de 9h à 12h (**TP noté**)
 
 ### Dates des cours-TP pour L3 Maths (Data) :
