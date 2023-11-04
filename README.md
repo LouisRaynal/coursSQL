@@ -7,7 +7,7 @@
   *Avancement : TP2 pages 4 à 10 \
   **Pour la prochaine fois, préparer les exercices du TP2 pages 10 et 11***
 - Jeudi 28/09 de 8h à 12h \
-  *Avancement : Correction exercices du TP2. TP 3 pages 1 à 13 \
+  *Avancement : Correction exercices du TP2. TP3 pages 1 à 13 \
   **Pour la prochaine fois, finir les exercices en page 13 du TP3***
 - Jeudi 19/10 de 8h à 12h \
   *Avancement : Finalisation du TP3*
