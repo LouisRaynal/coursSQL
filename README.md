@@ -15,7 +15,7 @@
   *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
 ### Dates des cours-TP pour L3 Maths (Data) :
-- Jeudi 9/11 de 9h à 12h
 - Jeudi 16/11 de 9h à 12h
 - Jeudi 23/11 de 9h à 12h
-- Jeudi 7/12 de 10h à 12h (**TP noté**)
+- Jeudi 7/12 de 9h à 12h
+- Jeudi 14/12 de 10h à 12h (**TP noté**)
