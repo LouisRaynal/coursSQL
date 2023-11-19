@@ -15,7 +15,9 @@
   *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
 ### Dates des cours-TP pour L3 Maths (Data) :
-- Jeudi 16/11 de 9h à 12h
+- Jeudi 16/11 de 9h à 12h \
+  *Avancement : TP4 pages 1 à 7 (jusqu'à la question 11) \
+  **Pour la prochaine fois, finir les exercices du TP4, à partir de la question 12***
 - Jeudi 23/11 de 9h à 12h
 - Jeudi 7/12 de 9h à 12h
 - Jeudi 14/12 de 10h à 12h (**TP noté**)
