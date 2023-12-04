@@ -18,6 +18,7 @@
 - Jeudi 16/11 de 9h à 12h \
   *Avancement : TP4 pages 1 à 7 (jusqu'à la question 11) \
   **Pour la prochaine fois, finir les exercices du TP4, à partir de la question 12***
-- Jeudi 23/11 de 9h à 12h
+- Jeudi 23/11 de 9h à 12h \
+  *Avancement : TP5 survolé, TP6 jusqu'aux exercices
 - Jeudi 7/12 de 9h à 12h
 - Jeudi 14/12 de 10h à 12h (**TP noté**)
