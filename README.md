@@ -11,7 +11,7 @@
   **Pour la prochaine fois, finir les exercices en page 13 du TP3*** -->
 - Jeudi 17/10 de 8h à 12h
 <!--  *Avancement : Finalisation du TP3* -->
-- Jeudi 24/10 de 9h à 12h (**TP noté**)
+- Jeudi 24/10 de 9h à 12h (**TP noté**) \
   *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
 ### Dates des cours-TP pour L3 Maths (Data) :
