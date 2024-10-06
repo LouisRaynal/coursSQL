@@ -1,1 +1,1 @@
-Ressources pour le cours-TP3.
+Ressources pour le TP3.
