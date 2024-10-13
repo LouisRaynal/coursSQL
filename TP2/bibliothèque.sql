@@ -27,7 +27,7 @@ recueillir afin que chaque table possède une clé primaire. */
 
 ---Pour la table abonnés, le numéro d'abonné peut être utilisé comme clé primaire.
 -- Pour la table livres, parmi les informations à stocker, il n'y a pas de clé primaire.
--- Rien ne permet de différencier deux exemplaires du même livre par exemeple.
+-- Rien ne permet de différencier deux exemplaires du même livre par exemple.
 -- Il faut ajouter l'information "identifiant du livre", qui sera unique pour
 -- chaque livre de la bibliothèque.
 -- Pour la table emprunts, il n'y a pas d'information qui permet de différencier de manière
