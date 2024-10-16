@@ -6,11 +6,11 @@
 - Jeudi 26/09 de 14h à 18h \
   *Avancement : TP2 pages 4 à 10 \
   **Pour la prochaine fois, préparer les exercices du TP2 pages 10 et 11***
-- Lundi 14/10 de 14h à 18h
-<!--  *Avancement : Correction exercices du TP2. TP3 pages 1 à 13 \
-  **Pour la prochaine fois, finir les exercices en page 13 du TP3*** -->
-- Jeudi 17/10 de 8h à 12h
-<!--  *Avancement : Finalisation du TP3* -->
+- Lundi 14/10 de 14h à 18h \
+  *Avancement : Correction exercices du TP2. TP3 pages 1 à 13 \
+  **Pour la prochaine fois, finir les exercices en page 13 du TP3***
+- Jeudi 17/10 de 8h à 12h \
+  *Avancement : Finalisation du TP3* 
 - Jeudi 24/10 de 9h à 12h (**TP noté**) \
   *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
