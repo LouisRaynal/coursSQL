@@ -1,4 +1,4 @@
----- Exercice 2 (11pt)
+---- Exercice 2 (11 points)
 
 -- Question 1 : 0.75 pt
 SELECT *
