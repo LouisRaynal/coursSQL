@@ -20,8 +20,8 @@
 - Jeudi 14/11 de 9h à 12h \
 *Avancement : Correction des dernières questions du TP4, TP5 survolé, TP6 jusqu'au EXISTS \
 **Pour la prochaine fois, finir de lire la partie cours du TP6***
-- Jeudi 28/11 de 9h à 12h
-<!--  *Avancement : Exercices du TP6* -->
+- Jeudi 28/11 de 9h à 12h \
+  *Avancement : Exercices du TP6*
 - Jeudi 12/12 de 10h à 12h (**TP noté**) \
   *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
