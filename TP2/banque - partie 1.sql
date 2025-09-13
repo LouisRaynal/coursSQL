@@ -18,7 +18,6 @@ CREATE TABLE comptes (
                                NOT NULL,
     FOREIGN KEY (fk_id_client)
     REFERENCES clients (id_client)
-    --ON DELETE CASCADE
 )
 ;
 
@@ -32,7 +31,7 @@ CREATE TABLE transactions (
     date      DATE          NOT NULL,
     FOREIGN KEY (fk_id_cpt)
     REFERENCES comptes (id_cpt) 
-    --ON DELETE CASCADE
 )
 ;
+
 
