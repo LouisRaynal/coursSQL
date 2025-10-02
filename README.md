@@ -7,8 +7,8 @@
 *Avancement : TP2 pages 6 à 11, dont correction des exercices*
 - Jeudi 25/09 de 8h à 12h \
 *Avancement : TP3 pages 1 à 13* 
-- Jeudi 02/10 de 8h à 12h
-<!--  *Avancement : Finalisation du TP3* -->
+- Jeudi 02/10 de 8h à 12h \
+*Avancement : Finalisation du TP3*
 - Jeudi 09/10 de 9h à 12h (**TP noté**) \
 *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*
 
