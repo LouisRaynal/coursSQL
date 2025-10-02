@@ -5,9 +5,8 @@
 *Avancement : TP1, TP2 pages 1 à 6*
 - Jeudi 18/09 de 8h à 12h \
 *Avancement : TP2 pages 6 à 11, dont correction des exercices*
-- Jeudi 25/09 de 8h à 12h 
-<!--  *Avancement : Correction exercices du TP2. TP3 pages 1 à 13* \ -->
-<!--  **Pour la prochaine fois, finir les exercices en page 13 du TP3*** -->
+- Jeudi 25/09 de 8h à 12h \
+*Avancement : TP3 pages 1 à 13* 
 - Jeudi 02/10 de 8h à 12h
 <!--  *Avancement : Finalisation du TP3* -->
 - Jeudi 09/10 de 9h à 12h (**TP noté**) \
