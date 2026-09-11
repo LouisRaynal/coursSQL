@@ -1,0 +1,24 @@
+Correction des Exercices du TP 1 :
+
+1)
+Table CUSTOMER :
+- la colonne CUSTOMER_ID est la clé primaire de la table CUSTOMER
+
+Table PRODUCT :
+- la colonne PRODUCT_ID est la clé primaire de la table PRODUCT
+
+Table CUSTOMER_ORDER :
+- la colonne ORDER_ID est la clé primaire de la table CUSTOMER_ORDER
+- la colonne CUSTOMER_ID est une clé étrangère pour la table CUSTOMER_ORDER,
+car elle contient des valeurs de la clé primaire CUSTOMER_ID de la table CUSTOMER
+- la colonne PRODUCT_ID est une clé étrangère pour la table CUSTOMER_ORDER,
+car elle contient des valeurs de la clé primaire PRODUCT_ID de la table PRODUCT
+
+2)
+Voir fichier "schéma_relationnel_rexon_metals.png"
+
+3)
+Marsh Lane Metal Works
+
+4)
+Aluminium et Bronze
