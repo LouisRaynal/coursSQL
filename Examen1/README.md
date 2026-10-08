@@ -1,1 +1,1 @@
-[Brouillon examen 1](https://r.mtdv.me/articles/SQLExamen1)
+Ressources pour l'examen
