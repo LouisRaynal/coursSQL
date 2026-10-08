@@ -13,12 +13,11 @@
 *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo)* \
 **Merci de vous espacer par un ordinateur pour l'évaluation.**
 
-<!--### Dates des cours-TP pour L3 Maths (Data) :-->
-<!--- Jeudi 15/10 de 8h à 12h \-->
-<!--*Avancement : TP4*-->
-<!--- Jeudi 22/10 de 8h à 12h \-->
-<!--*Avancement : TP5 survolé, TP6 jusqu'aux exercices (exercices débutés)*-->
-<!--- Jeudi 19/11 de 9h à 12h \-->
-<!--*Avancement : Exercices du TP6*-->
-<!--- Jeudi 19/11 de 14h à 16h (**TP noté**) \-->
-<!--*Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo), autres documents disponibles sur cette page*-->
+### Dates des cours-TP pour L3 Maths (Data) :
+- Jeudi 15/10 de 8h à 12h 
+<!--*Avancement : TP4, TP5 survolé *-->
+- Jeudi 22/10 de 8h à 12h 
+<!--*Avancement : TP6 *-->
+- Jeudi 19/11 de 9h15 à 12h (**TP noté de 2h [+ 40 minutes pour les personnes avec tiers-temps]**) \
+*Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo)* \
+**Merci de vous espacer par un ordinateur pour l'évaluation.**
