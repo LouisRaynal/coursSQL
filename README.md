@@ -14,8 +14,8 @@
 **Merci de vous espacer par un ordinateur pour l'évaluation.**
 
 ### Dates des cours-TP pour L3 Maths (Data) :
-- Jeudi 15/10 de 8h à 12h 
-<!--*Avancement : TP4, TP5 survolé *-->
+- Jeudi 15/10 de 8h à 12h \
+*Avancement : TP4, TP5 survolé (exercices de ce TP pour vous), TP6 jusqu'au EXISTS exclu*
 - Jeudi 22/10 de 8h à 12h 
 <!--*Avancement : TP6 *-->
 - Jeudi 19/11 de 9h15 à 12h (**TP noté de 2h [+ 40 minutes pour les personnes avec tiers-temps]**) \
