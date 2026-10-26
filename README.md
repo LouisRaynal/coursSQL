@@ -18,6 +18,6 @@
 *Avancement : TP4, TP5 survolé (exercices de ce TP pour vous), TP6 jusqu'au EXISTS exclu*
 - Jeudi 22/10 de 8h à 12h \
 *Avancement : TP6*
-- Jeudi 12/11 ou 19/11 de 9h15 à 12h (**TP noté de 2h [+ 40 minutes pour les personnes avec tiers-temps]**) \
+- Jeudi 26/11 de 9h15 à 12h (**TP noté de 2h [+ 40 minutes pour les personnes avec tiers-temps]**) \
 *Vous aurez droit aux documents de cours, vos scripts SQL ou ceux disponibles sur cette page github, ainsi que vos notes personnelles (fiches mémo)* \
 **Merci de vous espacer par un ordinateur pour l'évaluation.**
